@@ -6,8 +6,8 @@ I am passionate about learning new stuff, particularly if it's about solving pro
 
 ## My websites
 
-- [![thomaslfb.com, my dev website](https://i.imgur.com/qsWwSB8.png)](thomaslfb.com) [thomaslfb.com](thomaslfb.com) : my dev website 
-- [![monsieur.space, my art/creative website](https://i.imgur.com/g0o1QWq.png)](monsieur.space) [monsieur.space](monsieur.space) : my art/creative website
+- ![thomaslfb.com, my dev website](https://i.imgur.com/qsWwSB8.png "thomaslfb.com") [thomaslfb.com](thomaslfb.com) : my dev website 
+- ![monsieur.space, my art/creative website](https://i.imgur.com/g0o1QWq.png "monsieur.space") [monsieur.space](monsieur.space) : my art/creative website
 
 
 <!--
