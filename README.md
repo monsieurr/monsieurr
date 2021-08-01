@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 🌱
+
+I am currently working on some programming projects, mostly using either the MERN stack or Python.
+I recently published my websites, one profesionnal and dev oriented and the other to showcase my creative/art work.
+I am passionate about learning new stuff, particularly if it's about solving problems or making art.
+
+## My websites
+
+- [![thomaslfb.com, my dev website](https://i.imgur.com/qsWwSB8.png)](thomaslfb.com) [thomaslfb.com](thomaslfb.com) : my dev website 
+- [![monsieur.space, my art/creative website](https://i.imgur.com/g0o1QWq.png)](monsieur.space) [monsieur.space](monsieur.space) : my art/creative website
+
 
 <!--
 **monsieurr/monsieurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
