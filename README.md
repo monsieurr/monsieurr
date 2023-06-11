@@ -2,7 +2,7 @@
 
 Currently doing consulting work most of the week.
 
-Rest of the time when I am not running, talking, going out or doing photography I am learning about data stuff.
+Rest of the time when I am not running, talking, going out or doing photography I am learning about AI, green IT and data stuff.
 
 I published my websites a few months ago, one profesionnal and dev oriented and the other to showcase my creative/art work.
 I am passionate about learning, particularly if it's about solving problems or making art.
