@@ -9,8 +9,9 @@ I am passionate about learning, particularly if it's about solving problems or m
 
 ## My websites
 
-- ![thomaslfb.com, my dev website](https://i.imgur.com/qsWwSB8.png "thomaslfb.com") [thomaslfb.com](https://thomaslfb.com) : my dev website => not available anymore as of today
 - ![monsieur.space, my art/creative website](https://i.imgur.com/g0o1QWq.png "monsieur.space") [monsieur.space](https://monsieur.space) : my art/creative website => currently working on it as of summer 2024
+- ![thomaslfb.com, my dev website](https://i.imgur.com/qsWwSB8.png "thomaslfb.com") [thomaslfb.com](https://thomaslfb.com) : my dev website => not available anymore as of today
+
 
 
 <!--
