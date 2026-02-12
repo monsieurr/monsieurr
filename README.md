@@ -1,6 +1,6 @@
 ### Hi there 🌱
 
-Currently doing product ownership stuff during work hours.
+Currently doing product management stuff during work hours.
 
 Rest of the time when I am not running, talking, going out or doing photography I am learning about **AI** (broadly speeking), **green IT** and **data** stuff.
 I am passionate about learning, particularly if it's about **solving problems** or **making art**.
